@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'AliyunLogObjc'
+  s.name             = 'AliyunLogObjc_Objc'
   s.version          = '0.0.1'
   s.summary          = 'AliyunLogObjc for pod usage'
 
