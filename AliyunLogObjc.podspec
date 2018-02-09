@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/bing900717/AliyunLogObjc.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.source_files = 'AliyunLogObjc/*.{h,m}'
+  s.source_files = 'AliyunLogObjc/**/*.{h,m}'
   s.ios.deployment_target = '8.0'
   s.module_name  = 'AliyunLogObjc'
   
