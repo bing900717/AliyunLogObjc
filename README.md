@@ -15,9 +15,11 @@ This SDK is mostly interpreted from the official one, but the quality of code ha
 ```
 github "lujiajing1126/AliyunLogObjc"
 ```
+### CocoaPods
 
-CocoaPods is not supported now
-
+```
+pod "AliyunLogObjc_iOS"
+```
 ## Example
 
 ```objc
